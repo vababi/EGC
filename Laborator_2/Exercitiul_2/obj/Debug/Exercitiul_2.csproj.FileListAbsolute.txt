@@ -1,0 +1,13 @@
+D:\EGC\Exercitiul_2\bin\Debug\Exercitiul_2.exe.config
+D:\EGC\Exercitiul_2\bin\Debug\Exercitiul_2.exe
+D:\EGC\Exercitiul_2\bin\Debug\Exercitiul_2.pdb
+D:\EGC\Exercitiul_2\bin\Debug\OpenTK.dll
+D:\EGC\Exercitiul_2\bin\Debug\OpenTK.GLControl.dll
+D:\EGC\Exercitiul_2\bin\Debug\OpenTK.xml
+D:\EGC\Exercitiul_2\bin\Debug\OpenTK.GLControl.xml
+D:\EGC\Exercitiul_2\obj\Debug\Exercitiul_2.csproj.AssemblyReference.cache
+D:\EGC\Exercitiul_2\obj\Debug\Exercitiul_2.csproj.SuggestedBindingRedirects.cache
+D:\EGC\Exercitiul_2\obj\Debug\Exercitiul_2.csproj.CoreCompileInputs.cache
+D:\EGC\Exercitiul_2\obj\Debug\Exercitiul_2.csproj.CopyComplete
+D:\EGC\Exercitiul_2\obj\Debug\Exercitiul_2.exe
+D:\EGC\Exercitiul_2\obj\Debug\Exercitiul_2.pdb

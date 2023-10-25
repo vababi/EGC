@@ -1,0 +1,13 @@
+D:\EGC\Vlad_3133B\bin\Debug\Vlad_3133B.exe.config
+D:\EGC\Vlad_3133B\bin\Debug\Vlad_3133B.exe
+D:\EGC\Vlad_3133B\bin\Debug\Vlad_3133B.pdb
+D:\EGC\Vlad_3133B\bin\Debug\OpenTK.dll
+D:\EGC\Vlad_3133B\bin\Debug\OpenTK.GLControl.dll
+D:\EGC\Vlad_3133B\bin\Debug\OpenTK.xml
+D:\EGC\Vlad_3133B\bin\Debug\OpenTK.GLControl.xml
+D:\EGC\Vlad_3133B\obj\Debug\Vlad_3133B.csproj.AssemblyReference.cache
+D:\EGC\Vlad_3133B\obj\Debug\Vlad_3133B.csproj.SuggestedBindingRedirects.cache
+D:\EGC\Vlad_3133B\obj\Debug\Vlad_3133B.csproj.CoreCompileInputs.cache
+D:\EGC\Vlad_3133B\obj\Debug\Vlad_3133B.csproj.CopyComplete
+D:\EGC\Vlad_3133B\obj\Debug\Vlad_3133B.exe
+D:\EGC\Vlad_3133B\obj\Debug\Vlad_3133B.pdb
