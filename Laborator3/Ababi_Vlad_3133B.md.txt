@@ -1,0 +1,15 @@
+1. Vertexurile pot fi desenate in orice ordine dorita orar sau anti-orar. Insa, trebuie de mentinut faptul ca ordinea aleasa initial trebuie sa se mentina pe durata intregului proiect pentru a nu aparea artificii la desenarea unui obiect, figuri etc. Raspunsul la urmatoarea conditie este in programul Ababi_Exerciutiu_1.
+2. Anti_aliasing este o tehnica folosita pentru netezirea liniilor reprezentate pe monitor, care la o inclinatie sau la o curbura par sa aiba rupturi, cauzate de un numar mic de pixeli pe care este reprezentata imaginea, sau de o forma fina a linilor. Sunt numeroase tehnici folosite pentru a imbunatati imaginea care folosesc: suprapunerea pixelilor, introducerea unui efect de umbrire pentru a reduce contururile, schimbarea minora a formelor datorita cadrelor anterioare.
+3. GL.LineWidth(float) specifica grosimea linilor care urmeaza de desenat, ea mentine aceasta valoare pana cand nu este specificata alta.
+GL.PointSize(float) specifica marimea punctelor care se deseneaza. Dimenssiunea punctelor este pastrata pana la urmatoarea modificare a valorii.
+Da, aceste functii functioneaza in interiorul GL.Begin().
+4. Directiva LineLoop permite unirea vertexurilor intr-o forma inchisa. Pentru a efectua unirea este nevoie doar de specificarea unui numar norit de vertexuri.
+ Prin intermediul directivei LineStrip pot fi create forme deschise din segmente multimple, adica ultimul pun al ultimului segment nu se va uni cu primul punct al primului segment.
+ Directiva TriangleFan presupune desenarea mai multor triunghiuri prin intermediul vertexurilor care unul este central, adica comun pentru toate, iar celelalte specificate se vor uni astfel ca sa formeze triunghiuri.
+Directiva TriangleStrip presupune ca la desenarea mai multor triunghiuri va trebui sa specificam un numar de 2*n-2 puncte (n- nr laturi, in cazul nostru 3). Atunci un triunghi va folosi doua puncte ale altui triunghi pentru a fi desenat.
+6. Utilizarea diverselor culori la reprezentarea unei forme are ca scop redarea unei iluzii de spatialitate pe o suprafata bidimensionala. Astfel, prin intermediul jocului de lumini se pot evidentia marginile, adanciturile, dimensiunile etc. ale obiectului randat.
+7. Un gradient perpezinta o tranzitie treptata de nuante rezultata a combinarii unor culori de nuante diferite. In OpenGL acesta se obtine prin interpolarea a doua sau mai multe culori. 
+10. Triuunghiul desenat in modul strip cu vertexuri de diferite culori va fi umplut cu un gradient de culoare format prin interpolare.
+
+
+

@@ -1,0 +1,13 @@
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\Ababi_Exerciutiu_1.exe.config
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\Ababi_Exerciutiu_1.exe
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\Ababi_Exerciutiu_1.pdb
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\OpenTK.dll
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\OpenTK.GLControl.dll
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\OpenTK.xml
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\bin\Debug\OpenTK.GLControl.xml
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\obj\Debug\Ababi_Exerciutiu_1.csproj.AssemblyReference.cache
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\obj\Debug\Ababi_Exerciutiu_1.csproj.SuggestedBindingRedirects.cache
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\obj\Debug\Ababi_Exerciutiu_1.csproj.CoreCompileInputs.cache
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\obj\Debug\Ababi_Exerciutiu_1.csproj.CopyComplete
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\obj\Debug\Ababi_Exerciutiu_1.exe
+D:\EGC\Laborator3\Ababi_Exerciutiu_1\obj\Debug\Ababi_Exerciutiu_1.pdb

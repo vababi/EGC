@@ -1,0 +1,13 @@
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\Ababi_Exerciutiu_8.exe.config
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\Ababi_Exerciutiu_8.exe
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\Ababi_Exerciutiu_8.pdb
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\OpenTK.dll
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\OpenTK.GLControl.dll
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\OpenTK.xml
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\bin\Debug\OpenTK.GLControl.xml
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\obj\Debug\Ababi_Exerciutiu_8.csproj.AssemblyReference.cache
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\obj\Debug\Ababi_Exerciutiu_8.csproj.SuggestedBindingRedirects.cache
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\obj\Debug\Ababi_Exerciutiu_8.csproj.CoreCompileInputs.cache
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\obj\Debug\Ababi_Exerciutiu_8.csproj.CopyComplete
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\obj\Debug\Ababi_Exerciutiu_8.exe
+D:\EGC\Laborator3\Ababi_Exerciutiu_8\obj\Debug\Ababi_Exerciutiu_8.pdb
